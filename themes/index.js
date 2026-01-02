@@ -40,9 +40,9 @@ export const themes = {
     bg_color: "ffffff00",
   },
   dark: {
-    title_color: "fff",
+    title_color: "fb8c00",
     icon_color: "79ff97",
-    text_color: "9f9f9f",
+    text_color: "fefefe",
     bg_color: "151515",
   },
   radical: {
